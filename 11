@@ -1,0 +1,9 @@
+#Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit.
+#fórmula fareinheit
+#C = 5 * ((F-32) / 9).
+#(32 °F − 32) × 5/9 = C
+print("Olá! Viemos calcular a temperatura Fareinheit para Celsius!")
+print("Digite o valor em Fareinheit assim que solicitado, ok?")
+F = float(input("Qual o valor em Fareinheit? "))
+F = (1,8)C + 32
+print(" O valor é!: ", C)
