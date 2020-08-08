@@ -1,0 +1,16 @@
+#Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
+#o produto do dobro do primeiro com metade do segundo .
+#a soma do triplo do primeiro com o terceiro.
+#o terceiro elevado ao cubo.#
+
+print("Olá, vamos fazer alguns exercícios:");
+print("Digite dois números assim que solicitado, ta ok?");
+n1 = int(input("digite o primeiro número: "));
+n2 = int(input("Digite o segundo número: "));
+n3 = float(input("Digite um número "));
+
+r1 = (2*n1)*(n2/2)
+r2 = (3*n1)+n3
+r3 = n3**3
+
+print("Os valores em ordem são: ",r1, r2, r3)
